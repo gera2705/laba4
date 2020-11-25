@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\laba_4\bin\Debug\laba_4.exe.config
+C:\Users\Acer\source\repos\laba_4\bin\Debug\laba_4.exe
+C:\Users\Acer\source\repos\laba_4\bin\Debug\laba_4.pdb
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.Form1.resources
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.Properties.Resources.resources
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.exe
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.pdb
+C:\Users\Acer\source\repos\laba_4\obj\Debug\laba_4.g.resources
