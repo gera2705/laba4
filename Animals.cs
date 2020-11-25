@@ -93,7 +93,7 @@ namespace laba_4
             var str = "Кошка";
             str += String.Format("\nВес - {0} кг", this.weight);
             str += String.Format("\nКол-во мышей - {0} шт", this.count);
-            str += String.Format("\nШерсть - {0}", this.wool);
+            str += String.Format("\nШерсть - {0}", this.wool == true ? "Да" : "Нет" );
 
             return str;
         }

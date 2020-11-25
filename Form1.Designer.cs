@@ -156,6 +156,7 @@
             this.Controls.Add(this.txtOut);
             this.Controls.Add(this.txtInfo);
             this.Controls.Add(this.btnRefill);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
